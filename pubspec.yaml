@@ -1,0 +1,21 @@
+name: mini_katalog
+description: "Flutter egitimi Mini Katalog Uygulamasi - urun listesi, detay ve sepet simulasyonu."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ekstra paket kullanilmamistir (egitim kapsami geregi)
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/

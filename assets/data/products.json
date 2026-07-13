@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık Pro",
+    "category": "Ses",
+    "price": 2499.90,
+    "image": "assets/images/kulaklik.png",
+    "description": "Aktif gürültü engelleme özellikli, 30 saat pil ömrüne sahip kablosuz kulaklık. Yumuşak kulak yastıkları ile uzun kullanımlarda konfor sağlar.",
+    "specs": {"Pil Ömrü": "30 saat", "Bağlantı": "Bluetooth 5.3", "Ağırlık": "254 g"}
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat S9",
+    "category": "Giyilebilir",
+    "price": 3799.00,
+    "image": "assets/images/akilli_saat.png",
+    "description": "Nabız, uyku ve adım takibi yapan; aramaları bileğinize getiren akıllı saat. Suya dayanıklı tasarım.",
+    "specs": {"Ekran": "1.9 inç AMOLED", "Pil": "7 gün", "Dayanıklılık": "5 ATM"}
+  },
+  {
+    "id": 3,
+    "name": "UltraBook 14",
+    "category": "Bilgisayar",
+    "price": 27999.00,
+    "image": "assets/images/laptop.png",
+    "description": "1.2 kg ağırlığında, tüm gün pil ömrü sunan taşınabilir dizüstü bilgisayar. Sessiz klavye ve parlama önleyici ekran.",
+    "specs": {"Ekran": "14 inç 2.8K", "RAM": "16 GB", "Depolama": "512 GB SSD"}
+  },
+  {
+    "id": 4,
+    "name": "Telefon X Lite",
+    "category": "Telefon",
+    "price": 15499.00,
+    "image": "assets/images/telefon.png",
+    "description": "Gün boyu pil, akıcı 120 Hz ekran ve gece modu destekli kamera bir arada. Kompakt gövdesiyle tek elle kullanım kolaylığı.",
+    "specs": {"Ekran": "6.4 inç OLED", "Kamera": "50 MP", "Pil": "5000 mAh"}
+  },
+  {
+    "id": 5,
+    "name": "Mini Hoparlör Boom",
+    "category": "Ses",
+    "price": 1299.50,
+    "image": "assets/images/hoparlor.png",
+    "description": "Cebe sığan boyutuna rağmen odayı dolduran ses. 12 saat müzik, suya dayanıklı gövde.",
+    "specs": {"Güç": "20 W", "Pil": "12 saat", "Dayanıklılık": "IPX7"}
+  },
+  {
+    "id": 6,
+    "name": "Fotoğraf Makinesi M50",
+    "category": "Kamera",
+    "price": 21999.00,
+    "image": "assets/images/kamera.png",
+    "description": "Aynasız tasarımı ile hafif, 4K video çekebilen fotoğraf makinesi. Yeni başlayanlar için otomatik sahne modları.",
+    "specs": {"Sensör": "24.2 MP APS-C", "Video": "4K 30fps", "Ağırlık": "387 g"}
+  },
+  {
+    "id": 7,
+    "name": "Sessiz Mouse Ergo",
+    "category": "Aksesuar",
+    "price": 449.90,
+    "image": "assets/images/mouse.png",
+    "description": "Ergonomik kavrama, sessiz tıklama ve 18 ay pil ömrü. Üç cihaza aynı anda bağlanabilir.",
+    "specs": {"DPI": "4000", "Bağlantı": "Bluetooth + USB alıcı", "Pil": "18 ay"}
+  },
+  {
+    "id": 8,
+    "name": "Mekanik Klavye TKL",
+    "category": "Aksesuar",
+    "price": 1899.00,
+    "image": "assets/images/klavye.png",
+    "description": "Kompakt tenkeyless tasarım, değiştirilebilir tuşlar ve beyaz aydınlatma. Yazarken tok ve dengeli his.",
+    "specs": {"Switch": "Kırmızı (lineer)", "Düzen": "TR Q, TKL", "Bağlantı": "Kablolu USB-C"}
+  }
+]
